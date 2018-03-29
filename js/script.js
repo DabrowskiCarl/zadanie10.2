@@ -1,5 +1,3 @@
-const span = $('span');
-
 $('span:even').css('color', 'red');
 const paragraphs = $('p');
 paragraphs.each(function (index, element) {
